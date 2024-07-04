@@ -1,0 +1,38 @@
+.buttons{
+    border-radius: 5px;
+    background-color: #a7f89c;
+    padding: 5px ;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 15px;
+    font-size: 2em;
+    border: none;
+
+}
+.buttons:hover{
+    background-color: green;
+    color: white;
+    transition: background-color 0.28s;
+}
+.btnContainer{
+  text-align: center;
+   border: 2px ;
+   background: linear-gradient(to right,#f14107,rgb(255, 0, 157));
+   height: 300px;
+   padding-top: 60px;
+}
+
+
+#counterLabel{
+font-size: 10em;
+
+
+
+}
+#counterLabel:hover{
+    color: whitesmoke;
+}
+h1{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+box-shadow: #f14107;
+}
